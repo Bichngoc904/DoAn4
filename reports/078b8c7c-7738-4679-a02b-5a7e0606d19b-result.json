@@ -1,0 +1,1 @@
+{"name": "test_cart_page_delete_product", "status": "passed", "description": "Kiểm tra xóa sản phẩm trong giỏ hàng chi tiết", "start": 1761635456047, "stop": 1761635469269, "uuid": "f8db4265-f905-4313-88dc-99fa2e5d3706", "testCaseId": "63943594d1c8e3d127c912f9d4aad266", "fullName": "tests.test_cart#test_cart_page_delete_product", "titlePath": ["tests", "test_cart.py"]}

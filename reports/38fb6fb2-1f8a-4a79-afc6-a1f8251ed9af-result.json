@@ -1,0 +1,1 @@
+{"name": "test_popup_go_to_checkout_page", "status": "passed", "description": "Kiểm tra chuyển đến trang thanh toán từ popup", "start": 1761634626967, "stop": 1761634689901, "uuid": "b1485444-d7a8-4dbf-aabb-95eba0ebd73e", "testCaseId": "4abf0e6b7d6b971d9f1990863083ddf6", "fullName": "tests.test_cart#test_popup_go_to_checkout_page", "titlePath": ["tests", "test_cart.py"]}
